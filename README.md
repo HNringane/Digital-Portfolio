@@ -15,7 +15,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ##  Career Counselling
 
-### 📁 Evidence
+### Evidence
 - [Figma Mobile App Design Prototype](https://www.figma.com/proto/wL0FdUYDzaqjeKUSizzM2e/Untitled?node-id=0-1&t=GLrSWobAzTrSimU1-1)
 - [Figma Design File](https://www.figma.com/design/wL0FdUYDzaqjeKUSizzM2e/Untitled?node-id=0-1&m=dev&t=GLrSWobAzTrSimU1-1)
 
@@ -30,7 +30,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ## 🛠️ Skills and Interests
 
-### 📁 Evidence
+### Evidence
 - [LinkedIn Profile](https://www.linkedin.com/in/hope-nthembho-05600319a/)
 
 ### 🪞 Reflection – STAR Technique
@@ -56,12 +56,12 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ---
 
-## 📄 Create a CV
+## Create a CV
 
 ### 📁 Evidence
 - [View My CV](assets/Hope_Ringane_CV.pdf)
 
-### 🪞 Reflection – STAR Technique
+### Reflection – STAR Technique
 
 **Situation:** I needed a professional CV that highlights my education, experience, and skills.  
 **Task:** Design and compile a clear and effective CV for the job market.  
@@ -70,7 +70,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ---
 
-## 📤 CV Submission
+## CV Submission
 
 ###  Evidence
 - *(Upload a screenshot or confirmation of your CV submission to GitHub and link it here)*
@@ -83,13 +83,6 @@ Reflection – STAR Technique
 **Result:** I successfully submitted a polished and professional CV that demonstrates my growth, experience, and suitability for a role in ICT.
 
 ---
-
-## ✅ Conclusion
-
-This digital portfolio captures my development journey in the field of Information and Communication Technology. With strong technical foundations, practical project experience, and self-awareness through reflection, I am prepared to take the next step into a dynamic tech career.
-
-Thank you for taking the time to explore my work.
-
 
 
 
