@@ -59,6 +59,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 ## Create a CV
 
 ###  Evidence
+
 - [View My CV](assets/Hope_Ringane_CV.pdf)
 
 ### Reflection – STAR Technique
