@@ -60,7 +60,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ###  Evidence
 
-[[[![CV Submission Screenshot](Screenshot 2025-06-09 093638.png)](https://github.com/HNringane/Digital-Portfolio/blob/main/Screenshot%202025-06-09%20093638.png?raw=true)](https://github.com/HNringane/Digital-Portfolio/blob/main/Screenshot%202025-06-09%20093638.png?raw=true)](https://github.com/HNringane/Digital-Portfolio/blob/a806d6bdcdc35c963366429fddd0ba5d0a7f5c1f/Screenshot%202025-06-09%20093638.png)
+![image alt](https://github.com/HNringane/Digital-Portfolio/blob/a806d6bdcdc35c963366429fddd0ba5d0a7f5c1f/Screenshot%202025-06-09%20093638.png)
 
 - [View My CV][(assets/Hope_Ringane_CV.pdf)](https://github.com/HNringane/Digital-Portfolio/blob/18ad9e53085b5129dbb7b76526199a2c21f766db/CV%20Hope%20Ringane%20(6)%20(2).pdf)
 
@@ -76,8 +76,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 ## CV Submission
 
 ###  Evidence
-[[*](https://github.com/HNringane/Digital-Portfolio/blob/main/Screenshot%202025-06-09%20093638.png?raw=true)
-](https://github.com/HNringane/Digital-Portfolio/blob/main/Screenshot%202025-06-09%20093638.png?raw=true)](https://github.com/HNringane/Digital-Portfolio/blob/a806d6bdcdc35c963366429fddd0ba5d0a7f5c1f/Screenshot%202025-06-09%20093638.png)
+![image alt](https://github.com/HNringane/Digital-Portfolio/blob/a806d6bdcdc35c963366429fddd0ba5d0a7f5c1f/Screenshot%202025-06-09%20093638.png)
 Reflection – STAR Technique
 
 **Situation:** Finalizing and submitting my CV was crucial for completing the work readiness process.  
