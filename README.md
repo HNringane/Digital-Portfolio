@@ -59,6 +59,8 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 ## Create a CV
 
 ###  Evidence
+### 📁 Evidence
+![CV Submission Screenshot](Screenshot 2025-06-09 093638.png)
 
 - [View My CV](assets/Hope_Ringane_CV.pdf)
 
