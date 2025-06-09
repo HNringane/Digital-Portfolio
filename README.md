@@ -59,8 +59,8 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 ## Create a CV
 
 ###  Evidence
-### 📁 Evidence
-![CV Submission Screenshot](Screenshot 2025-06-09 093638.png)
+
+[![CV Submission Screenshot](Screenshot 2025-06-09 093638.png)](https://github.com/HNringane/Digital-Portfolio/blob/main/Screenshot%202025-06-09%20093638.png?raw=true)
 
 - [View My CV](assets/Hope_Ringane_CV.pdf)
 
@@ -76,7 +76,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 ## CV Submission
 
 ###  Evidence
-- *(Upload a screenshot or confirmation of your CV submission to GitHub and link it here)*
+[- *(Upload a screenshot or confirmation of your CV submission to GitHub and link it here)*](https://github.com/HNringane/Digital-Portfolio/blob/main/Screenshot%202025-06-09%20093638.png?raw=true)
 
 Reflection – STAR Technique
 
