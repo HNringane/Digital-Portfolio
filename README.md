@@ -33,7 +33,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 ### Evidence
 - [LinkedIn Profile](https://www.linkedin.com/in/hope-nthembho-05600319a/)
 
-### 🪞 Reflection – STAR Technique
+### Reflection – STAR Technique
 
 **Situation:** I needed to understand where my interests and strengths intersect.  
 **Task:** Identify skills and interests that motivate me and guide my professional focus.  
