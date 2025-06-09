@@ -19,7 +19,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 - [Figma Mobile App Design Prototype](https://www.figma.com/proto/wL0FdUYDzaqjeKUSizzM2e/Untitled?node-id=0-1&t=GLrSWobAzTrSimU1-1)
 - [Figma Design File](https://www.figma.com/design/wL0FdUYDzaqjeKUSizzM2e/Untitled?node-id=0-1&m=dev&t=GLrSWobAzTrSimU1-1)
 
-### 🪞 Reflection – STAR Technique
+### Reflection – STAR Technique
 
 **Situation:** At the start of my academic journey, I lacked clarity about my long-term career goals.  
 **Task:** I needed to align my studies and experiences with a sustainable and meaningful career path.  
@@ -28,7 +28,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ---
 
-## 🛠️ Skills and Interests
+##  Skills and Interests
 
 ### Evidence
 - [LinkedIn Profile](https://www.linkedin.com/in/hope-nthembho-05600319a/)
@@ -42,12 +42,12 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ---
 
-## 🧠 Personality Assessment
+## Personality Assessment
 
-### 📁 Evidence
+###  Evidence
 - [My Personality Assessment Diagram (draw.io)](https://app.diagrams.net/#G1wEq-g0emj2ob9DKTSIwrF-O_jWnJwR3K#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D)
 
-### 🪞 Reflection – STAR Technique
+###  Reflection – STAR Technique
 
 **Situation:** I wasn’t aware of how my personality influences my working style and career fit.  
 **Task:** Explore and analyze my personality traits and their application to real-world work environments.  
@@ -58,7 +58,7 @@ This portfolio is aligned with the Work Readiness Training outcomes and includes
 
 ## Create a CV
 
-### 📁 Evidence
+###  Evidence
 - [View My CV](assets/Hope_Ringane_CV.pdf)
 
 ### Reflection – STAR Technique
